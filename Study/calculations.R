@@ -9,7 +9,7 @@ library(pgirmess)
 ############ Read data #############.
 
 setwd("C:/Users/Leo/sciebo/Paper_ELH/R")
-ds_file = "data_counterfactuals_ELH.csv"
+ds_file = "data_anonymized.csv"
 
 ds = read.table(
   file=ds_file, encoding="UTF-8",
