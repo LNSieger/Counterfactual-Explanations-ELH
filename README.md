@@ -1,7 +1,7 @@
 # Counterfactual-Explanations-ELH
 
-Use following Ontolearn branch:
-https://github.com/dice-group/Ontolearn/tree/temp_sub_properties
+Use Ontolearn from:
+https://github.com/LNSieger/Counterfactual-Explanations-ELH/tree/temp_sub_properties
 
 An installation guide can be found at:
 https://ontolearn-docs-dice-group.netlify.app/usage/installation.html
